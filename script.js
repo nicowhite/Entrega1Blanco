@@ -1,4 +1,4 @@
-alert("Recuerda que tienes 120 minutos para hacer el examen");
+alert("Recuerda que tienes 120 minutos para hacer el examen!");
 let nombre = prompt("Cual es tu nombre?");
 let nota = Number(prompt("Que nota te sacaste?"));
 
